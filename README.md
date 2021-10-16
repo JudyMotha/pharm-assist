@@ -1,6 +1,18 @@
 # Pharm-Assist
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br><br>
+* GithubRepo
+ https://github.com/JudyMotha/pharm-assist
+
+* Heroku deplyed tried but failed with application errors
+ https://somethingnow.herokuapp.com/
+  https://thawing-retreat-54209.herokuapp.com/
+
+* Screencastify:
+https://watch.screencastify.com/v/EmlXrw52e69LuwSaVWUI
+
+
+
 
 <img src="./client/src/images/screenshot.png" alt="Image of Pharm-Assist homepage">
 <br><br>
