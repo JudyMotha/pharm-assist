@@ -4,12 +4,7 @@
 * GithubRepo
  https://github.com/JudyMotha/pharm-assist
 
-* Heroku deplyed tried but failed with application errors
-* https://somethingnow.herokuapp.com/
-*  https://thawing-retreat-54209.herokuapp.com/
 
-* Screencastify:
-https://watch.screencastify.com/v/EmlXrw52e69LuwSaVWUI
 
 
 
